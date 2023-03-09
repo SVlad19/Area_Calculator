@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Area_Calculator</string>
+    <string name="app_name">Lab1(2)ForOOP</string>
+    <string name="HeaderName">Area Calculator  </string>
+    <string name="RadiusCircle">Enter radius:</string>
+    <string name="Calculate">Calculate</string>
+    <string name="SideSquare">Enter side of a square:  </string>
+    <string name="FirstSideRectangle">Enter first side of a rectangle:  </string>
+    <string name="SecondSideRectangle">Enter second side of a rectangle:  </string>
+    <string name="SideTriangle">Enter side of a triangle:  </string>
+    <string name="HeightTriangle">Enter triangle height:  </string>
+
 </resources>
